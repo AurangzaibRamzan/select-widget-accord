@@ -1,13 +1,13 @@
-# 📦 React / TypeScript starter project
+# 📦 React / TypeScript Selector
 
     $ yarn
     $ yarn dev
-
-## Conventions
-
-* All components go in `components/`
-* All files should be named using `dash-case`
-* Utility functions go in `lib/`
+    
+    
+ #  Selector UI
+ 
+ 
+ <p align="center"><img src="https://user-images.githubusercontent.com/31761132/75426456-81f3db80-5966-11ea-931a-76425c1ac97c.png"></p>
 
 ## VSCode
 
